@@ -6,9 +6,9 @@ This file doesn't describe in too much detail about what's there in this reposit
 
 Run all these commands in separate terminals:
 1. `roscore`
-2. `Run "sudo -s", because mouseData_publish.py needs to access your mouse input which requires root user's permission.
-3. Run "rosrun robot_tutorials mouseData_publish.py"
-4. Run "rosrun robot_tutorials mouse_clicks_server.py"
-5. Run "rosrun robot_tutorials mouse_clicks_client.py"
+2. `sudo -s` because mouseData_publish.py needs to access your mouse input which requires root user's permission.
+3. `rosrun robot_tutorials mouseData_publish.py`
+4. `rosrun robot_tutorials mouse_clicks_server.py`
+5. `rosrun robot_tutorials mouse_clicks_client.py`
 
 Now try left clicking or right clicking and observe what happens.
