@@ -11,4 +11,4 @@ Run all these commands in separate terminals:
 4. `rosrun robot_tutorials mouse_clicks_server.py`
 5. `rosrun robot_tutorials mouse_clicks_client.py`
 
-Now try left clicking or right clicking and observe what happens.
+Now try left clicking or right clicking and observe what happens ;).
